@@ -1,0 +1,242 @@
+[
+  {
+    "port_ocs": 1, 
+    "port_tor": 17, 
+    "tor_log": 1, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 2, 
+    "port_tor": 18, 
+    "tor_log": 1, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 3, 
+    "port_tor": 19, 
+    "tor_log": 2, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 4, 
+    "port_tor": 20, 
+    "tor_log": 2, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 5, 
+    "port_tor": 21, 
+    "tor_log": 3, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 6, 
+    "port_tor": 22, 
+    "tor_log": 3, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 7, 
+    "port_tor": 23, 
+    "tor_log": 4, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 8, 
+    "port_tor": 24, 
+    "tor_log": 4, 
+    "tor_phy": 1
+  }, 
+  {
+    "port_ocs": 9, 
+    "port_tor": 17, 
+    "tor_log": 5, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 10, 
+    "port_tor": 18, 
+    "tor_log": 5, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 11, 
+    "port_tor": 19, 
+    "tor_log": 6, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 12, 
+    "port_tor": 20, 
+    "tor_log": 6, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 13, 
+    "port_tor": 21, 
+    "tor_log": 7, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 14, 
+    "port_tor": 22, 
+    "tor_log": 7, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 15, 
+    "port_tor": 23, 
+    "tor_log": 8, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 16, 
+    "port_tor": 24, 
+    "tor_log": 8, 
+    "tor_phy": 2
+  }, 
+  {
+    "port_ocs": 17, 
+    "port_tor": 17, 
+    "tor_log": 9, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 18, 
+    "port_tor": 18, 
+    "tor_log": 9, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 19, 
+    "port_tor": 19, 
+    "tor_log": 10, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 20, 
+    "port_tor": 20, 
+    "tor_log": 10, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 21, 
+    "port_tor": 21, 
+    "tor_log": 11, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 22, 
+    "port_tor": 22, 
+    "tor_log": 11, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 23, 
+    "port_tor": 23, 
+    "tor_log": 12, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 24, 
+    "port_tor": 24, 
+    "tor_log": 12, 
+    "tor_phy": 3
+  }, 
+  {
+    "port_ocs": 25, 
+    "port_tor": 17, 
+    "tor_log": 13, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 26, 
+    "port_tor": 18, 
+    "tor_log": 13, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 27, 
+    "port_tor": 19, 
+    "tor_log": 14, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 28, 
+    "port_tor": 20, 
+    "tor_log": 14, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 29, 
+    "port_tor": 21, 
+    "tor_log": 15, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 30, 
+    "port_tor": 22, 
+    "tor_log": 15, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 31, 
+    "port_tor": 23, 
+    "tor_log": 16, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 32, 
+    "port_tor": 24, 
+    "tor_log": 16, 
+    "tor_phy": 4
+  }, 
+  {
+    "port_ocs": 33, 
+    "port_tor": 17, 
+    "tor_log": 17, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 34, 
+    "port_tor": 18, 
+    "tor_log": 17, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 35, 
+    "port_tor": 19, 
+    "tor_log": 18, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 36, 
+    "port_tor": 20, 
+    "tor_log": 18, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 37, 
+    "port_tor": 21, 
+    "tor_log": 19, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 38, 
+    "port_tor": 22, 
+    "tor_log": 19, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 39, 
+    "port_tor": 23, 
+    "tor_log": 20, 
+    "tor_phy": 5
+  }, 
+  {
+    "port_ocs": 40, 
+    "port_tor": 24, 
+    "tor_log": 20, 
+    "tor_phy": 5
+  }
+]

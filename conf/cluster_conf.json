@@ -1,0 +1,100 @@
+{
+  "node": {
+    "starting": 1,
+    "num_per_phy": 8,
+    "starting_ip": "[INTERNAL_NETWORK_PREFIX].50.111"
+  },
+  "eps": {
+    "phy": {
+      "dpid_starting": 1,
+      "num": 5
+    },
+    "log": {
+      "vlanid_starting": 1,
+      "num_per_phy": 4
+    },
+    "core": {
+      "starting": 9,
+      "num": 8
+    },
+    "oversubscription": 1,
+    "duplex_10G": {
+      "starting": 17,
+      "num": 8,
+      "num_per_log": 2
+    },
+    "duplex_40G": {
+      "starting": 49,
+      "num": 4,
+      "num_per_log": 1
+    },
+    "relay": [
+      {
+        "vlanid": 3232,
+        "dpid": 3,
+        "starting": 37,
+        "num": 7
+      }
+    ]
+  },
+  "ocs": {
+    "duplex_10G": {
+      "starting": 1,
+      "num": 40
+    },
+    "duplex_40G": {
+      "starting": 45,
+      "num": 16
+    },
+    "splitters": [
+      {
+        "starting": 93,
+        "num": 15,
+        "fanout": 4
+      }
+    ],
+    "relay": {
+      "starting": 161
+    },
+    "feeders": [
+      {
+        "source": 171,
+        "destination": 153,
+        "starting": 154,
+        "num": 3
+      },
+      {
+        "source": 172,
+        "destination": 157,
+        "starting": 158,
+        "num": 3
+      }
+    ]
+  },
+  "core": {
+    "vlanid": 127
+  },
+  "apr_flood_groupid": 3276,
+  "queue_priority": {
+    "default": 1,
+    "high": 4
+  },
+  "gateway": [
+    {
+      "ip": "[INTERNAL_NETWORK_PREFIX].50.151",
+      "ip_10": "[RESEARCH_NETWORK_PREFIX].151",
+      "port": 47
+    },
+    {
+      "ip": "[INTERNAL_NETWORK_PREFIX].50.152",
+      "ip_10": "[RESEARCH_NETWORK_PREFIX].152",
+      "port": 48
+    }
+  ],
+  "tor_controller": {
+    "port": "8010"
+  },
+  "ocs_controller": {
+    "port": "8080"
+  }
+}

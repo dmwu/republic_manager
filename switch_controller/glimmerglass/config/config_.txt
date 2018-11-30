@@ -1,0 +1,15 @@
+[Defaults]
+target: [RESEARCH_NETWORK_PREFIX].88
+username: [OCS_USERNAME]
+password: [OCS_PASSWORD]
+loglevel: ERROR  
+report:
+ports: 48  
+loopback:
+test: 1XN  
+concurrency: 4  
+input_ports: ./config/inports.txt
+output_ports: ./config/outports.txt
+inport: 1
+outport: 1
+concurrency: 12

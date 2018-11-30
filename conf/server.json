@@ -1,0 +1,282 @@
+[
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.111", 
+    "port": 1, 
+    "rack_idx": 0, 
+    "tor_log": 1, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.112", 
+    "port": 2, 
+    "rack_idx": 1, 
+    "tor_log": 1, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.113", 
+    "port": 3, 
+    "rack_idx": 0, 
+    "tor_log": 2, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.114", 
+    "port": 4, 
+    "rack_idx": 1, 
+    "tor_log": 2, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.115", 
+    "port": 5, 
+    "rack_idx": 0, 
+    "tor_log": 3, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.116", 
+    "port": 6, 
+    "rack_idx": 1, 
+    "tor_log": 3, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.117", 
+    "port": 7, 
+    "rack_idx": 0, 
+    "tor_log": 4, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.118", 
+    "port": 8, 
+    "rack_idx": 1, 
+    "tor_log": 4, 
+    "tor_phy": 1
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.119", 
+    "port": 1, 
+    "rack_idx": 0, 
+    "tor_log": 5, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.120", 
+    "port": 2, 
+    "rack_idx": 1, 
+    "tor_log": 5, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.121", 
+    "port": 3, 
+    "rack_idx": 0, 
+    "tor_log": 6, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.122", 
+    "port": 4, 
+    "rack_idx": 1, 
+    "tor_log": 6, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.123", 
+    "port": 5, 
+    "rack_idx": 0, 
+    "tor_log": 7, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.124", 
+    "port": 6, 
+    "rack_idx": 1, 
+    "tor_log": 7, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.125", 
+    "port": 7, 
+    "rack_idx": 0, 
+    "tor_log": 8, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.126", 
+    "port": 8, 
+    "rack_idx": 1, 
+    "tor_log": 8, 
+    "tor_phy": 2
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.127", 
+    "port": 1, 
+    "rack_idx": 0, 
+    "tor_log": 9, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.128", 
+    "port": 2, 
+    "rack_idx": 1, 
+    "tor_log": 9, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.129", 
+    "port": 3, 
+    "rack_idx": 0, 
+    "tor_log": 10, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.130", 
+    "port": 4, 
+    "rack_idx": 1, 
+    "tor_log": 10, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.131", 
+    "port": 5, 
+    "rack_idx": 0, 
+    "tor_log": 11, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.132", 
+    "port": 6, 
+    "rack_idx": 1, 
+    "tor_log": 11, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.133", 
+    "port": 7, 
+    "rack_idx": 0, 
+    "tor_log": 12, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.134", 
+    "port": 8, 
+    "rack_idx": 1, 
+    "tor_log": 12, 
+    "tor_phy": 3
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.135", 
+    "port": 1, 
+    "rack_idx": 0, 
+    "tor_log": 13, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.136", 
+    "port": 2, 
+    "rack_idx": 1, 
+    "tor_log": 13, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.137", 
+    "port": 3, 
+    "rack_idx": 0, 
+    "tor_log": 14, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.138", 
+    "port": 4, 
+    "rack_idx": 1, 
+    "tor_log": 14, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.139", 
+    "port": 5, 
+    "rack_idx": 0, 
+    "tor_log": 15, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.140", 
+    "port": 6, 
+    "rack_idx": 1, 
+    "tor_log": 15, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.141", 
+    "port": 7, 
+    "rack_idx": 0, 
+    "tor_log": 16, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.142", 
+    "port": 8, 
+    "rack_idx": 1, 
+    "tor_log": 16, 
+    "tor_phy": 4
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.143", 
+    "port": 1, 
+    "rack_idx": 0, 
+    "tor_log": 17, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.144", 
+    "port": 2, 
+    "rack_idx": 1, 
+    "tor_log": 17, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.145", 
+    "port": 3, 
+    "rack_idx": 0, 
+    "tor_log": 18, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.146", 
+    "port": 4, 
+    "rack_idx": 1, 
+    "tor_log": 18, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.147", 
+    "port": 5, 
+    "rack_idx": 0, 
+    "tor_log": 19, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.148", 
+    "port": 6, 
+    "rack_idx": 1, 
+    "tor_log": 19, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.149", 
+    "port": 7, 
+    "rack_idx": 0, 
+    "tor_log": 20, 
+    "tor_phy": 5
+  }, 
+  {
+    "ip": "[INTERNAL_NETWORK_PREFIX].50.150", 
+    "port": 8, 
+    "rack_idx": 1, 
+    "tor_log": 20, 
+    "tor_phy": 5
+  }
+]

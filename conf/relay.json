@@ -1,0 +1,37 @@
+[
+  {
+    "dpid": 3, 
+    "eps_port": 37, 
+    "ocs_port": 161
+  }, 
+  {
+    "dpid": 3, 
+    "eps_port": 38, 
+    "ocs_port": 162
+  }, 
+  {
+    "dpid": 3, 
+    "eps_port": 39, 
+    "ocs_port": 163
+  }, 
+  {
+    "dpid": 3, 
+    "eps_port": 40, 
+    "ocs_port": 164
+  }, 
+  {
+    "dpid": 3, 
+    "eps_port": 41, 
+    "ocs_port": 165
+  }, 
+  {
+    "dpid": 3, 
+    "eps_port": 42, 
+    "ocs_port": 166
+  }, 
+  {
+    "dpid": 3, 
+    "eps_port": 43, 
+    "ocs_port": 167
+  }
+]

@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target/
+/.idea/
+*.pyc
+.classpath
+.project
+*.swp
+.DS_Store
+*.jar
+*.log
+*/cmake-*/*
+*/log/*
