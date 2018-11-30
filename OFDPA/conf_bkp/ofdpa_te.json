@@ -1,0 +1,10 @@
+{
+    "config_directory":"conf/te_BOLD",
+    "#config_directory":"conf/te_quanta",
+    "#config_directory":"conf/te_tests",
+    "#config_directory":"conf/te_demo",
+    "working_set": "scenario_acl.json",
+    "#working_set": "scenarioB.json",
+    "#working_set": "AddACL.json",
+    "#working_set": "DelACL.json"
+}

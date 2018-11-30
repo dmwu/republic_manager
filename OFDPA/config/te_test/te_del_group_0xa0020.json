@@ -1,0 +1,27 @@
+{
+  "group_mod": {
+    "_name": "l2_del_0x000a0020",
+    "_description": "Description",
+    "#comments": "Comments",
+    "cmd": "del",
+    "type": "indirect",
+    "group_id": "0x000a0020",
+    "buckets": [
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "output": {
+              "port": "32"
+            }
+          },
+          {
+            "pop": "vlan"
+          }
+        ]
+      }
+    ]
+  }
+}

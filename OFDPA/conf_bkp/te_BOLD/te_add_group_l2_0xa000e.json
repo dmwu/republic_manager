@@ -1,0 +1,32 @@
+{
+"group_mod":
+        {
+        "_name" : "l2_0xa000e",
+        "_description" :"Description",
+        "#comments": "Comments",
+        "cmd" : "add",
+        "type" : "indirect",
+        "group_id" : "0xa000e",
+
+        "buckets":
+            [
+                {
+                "weight" : "0",
+                "watch_port":"any",
+                "watch_group":"any",
+                "actions":
+                    [
+                        {
+                        "output":
+                            {
+                            "port":"14"
+                            }
+                        },
+                        {
+                        "pop":"vlan"
+                        }
+                    ]
+                }
+            ]
+        }
+}

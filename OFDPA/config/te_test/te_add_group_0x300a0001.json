@@ -1,0 +1,552 @@
+{
+  "group_mod": {
+    "_name": "l2_0x300a0001",
+    "_description": "Description",
+    "#comments": "Comments",
+    "cmd": "add",
+    "type": "all",
+    "group_id": "0x300a0001",
+    "buckets": [
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0001"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0002"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0003"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0004"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0005"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0006"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0007"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0008"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0009"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa000a"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa000b"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa000c"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa000d"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa000e"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa000f"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0010"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0011"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0012"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0013"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0014"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0015"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0016"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0017"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0018"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0019"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa001a"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa001b"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa001c"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa001d"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa001e"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa001f"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0020"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0021"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0022"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0023"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0024"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0025"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0026"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0027"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0028"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa0029"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa002a"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa002b"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa002c"
+            }
+          }
+        ]
+      },
+      {
+        "weight": "0",
+        "watch_port": "any",
+        "watch_group": "any",
+        "actions": [
+          {
+            "group": {
+              "group_id": "0xa002d"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
